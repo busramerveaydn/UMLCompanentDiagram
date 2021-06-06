@@ -18,3 +18,12 @@ Companent: Bir sistemin modüler bir parçasını temsil eder.
 Package: Öğeleri gruplamak ve gruplanmış öğeler için bir ad alanı sağlamak için kullanılır.
 
 ![image](https://user-images.githubusercontent.com/32596414/120920340-f28bbb00-c6c6-11eb-8454-cf726bca8ec1.png)
+*******************************************************************************************************************************
+Package Container: Sınıflar, kullanım durumları ve bileşenler gibi UML öğelerini tanımlamak için kullanılır.
+
+![image](https://user-images.githubusercontent.com/32596414/120920409-472f3600-c6c7-11eb-89b1-7fda313fb510.png)
+*******************************************************************************************************************************
+Dependency: Bağımlılık ilişkisi, müşterinin, tedarikçiyi kullandığı veya başka bir öğeye bağlı olduğu bir ilişkidir.
+
+![image](https://user-images.githubusercontent.com/32596414/120920436-6ded6c80-c6c7-11eb-82c0-18cb57e4a8c1.png)
+*******************************************************************************************************************************
