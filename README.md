@@ -27,3 +27,14 @@ Dependency: Bağımlılık ilişkisi, müşterinin, tedarikçiyi kullandığı v
 
 ![image](https://user-images.githubusercontent.com/32596414/120920436-6ded6c80-c6c7-11eb-82c0-18cb57e4a8c1.png)
 *******************************************************************************************************************************
+Generalization: Genelleme, bir model öğesinin (alt öğe) başka bir model öğesini (ebeveyn) temel aldığı bir ilişkidir.
+
+![image](https://user-images.githubusercontent.com/32596414/120920484-b60c8f00-c6c7-11eb-9f05-751fd68dfa07.png)
+*******************************************************************************************************************************
+Restriction: Kısıtlama,  bir UML model öğesinin anlamını iyileştirmenizi sağlayan bir genişletme mekanizmasıdır.
+
+![image](https://user-images.githubusercontent.com/32596414/120920548-0683ec80-c6c8-11eb-8c94-1f1c79cf9b64.png)
+*******************************************************************************************************************************
+Note: Yorumları veya metinsel bilgileri içerir.
+
+![image](https://user-images.githubusercontent.com/32596414/120920590-316e4080-c6c8-11eb-8ba2-500c0ccc6885.png)
