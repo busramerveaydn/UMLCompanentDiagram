@@ -11,6 +11,10 @@ Basic Concepts of Companent Diagram (Bileşen Diyagramın Temel Kavramları)
 
 ![image](https://user-images.githubusercontent.com/32596414/120920120-efdc9600-c6c5-11eb-998c-77fdeafff36b.png)
 *******************************************************************************************************************************
+Uçlarında yalnızca yarım daire bulunan Gerekli Arabirim sembolleri (diğer adıyla soketler), bileşenin gerektirdiği bir arabirimi temsil eder (her iki durumda da arabirimin adı, arabirim simgesinin yanına yerleştirilir).
+![image](https://user-images.githubusercontent.com/32596414/120924287-9b441580-c6db-11eb-939c-4c6fbaed8bb8.png)
+
+*******************************************************************************************************************************
 # UMLCompanentSymbol
 #### Companent: Bir sistemin modüler bir parçasını temsil eder.
 
