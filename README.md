@@ -10,3 +10,5 @@ Basic Concepts of Companent Diagram (Bileşen Diyagramın Temel Kavramları)
 3. Sterotip metni ve/veya simgesi olan bir dikdörtgen
 
 ![image](https://user-images.githubusercontent.com/32596414/120920120-efdc9600-c6c5-11eb-998c-77fdeafff36b.png)
+
+Companent: ![image](https://user-images.githubusercontent.com/32596414/120920285-b5bfc400-c6c6-11eb-8508-cdc9353ad51a.png)
